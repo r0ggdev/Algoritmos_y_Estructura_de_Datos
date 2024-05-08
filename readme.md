@@ -1,20 +1,94 @@
-# Apuntes de clases 
-__Curso:__ Algoritmo y Estructura de Datos
+# Apuntes de clases
 
-## Semana 01: Complejidad Algoritmica
+**Curso:** Algoritmo y Estructura de Datos.
 
- - [Apuntes](Semana01/S01.md)
- - [Ejemplo Big O](Semana01/BigO.cpp)
+A continuación la Tabla de contenido:
 
-## Semana 02: Templates 
+<style>
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
 
-## Semana 03: Listas
- - [Encambezado](Semana03/Lista.h)
- - [Cpp](Semana03/Source.cpp)
+  .custom-table th {
+    background-color: #4D869C;
+    color: #ffff;
+  }
+</style>
 
-## Semana 04: Pilas y Colas
-#### Pilas:
-- [Nodos](Semana04/Node.h)
-- [Puntos](Semana04/Point.h)
-- [Pilas](Semana04/Stack.h)
-- [CPP](Semana04/Source.cpp)
+<table class="custom-table">
+  <tr>
+    <th>Semana</th>
+    <th>Tema</th>
+    <th>Apuntes</th>
+    <th>Ejemplos</th>
+  </tr>
+
+  <tr>
+    <td>01</td>
+    <td>📄 Complejidad Algorítmica</td>
+    <td><a href="Semana01/S01.md"> Ver </a> </td>
+    <td><a href="Semana01/BigO.cpp"> Link</a> </td>
+  </tr>
+  
+  <tr>
+    <td>02</td>
+    <td>📄 Templates</td>
+    <td><a href=" ">Ver </a> </td>
+    <td><a href=" ">Link</a> </td>
+  </tr>
+  
+  <tr>
+    <td>03</td>
+    <td>📄 Listas</td>
+    <td><a href=" ">Ver </a> </td>
+    <td><a href="Semana03/Lista.h">Ver 1</a> </br> <a href="Semana03/Source.cpp">Ver 2</a></td>
+  </tr>
+ 
+  <tr>
+    <td rowspan="2">04</td>
+    <td>📄 Pilas</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>📄 Colas</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>05</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>06</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>07</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>08</td>
+    <td> 📚 Parciales</td>
+    <td colspan="2"> </td>
+  </tr>
+
+</table>
